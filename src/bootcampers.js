@@ -42,7 +42,9 @@ export const compliments = [
   "picks great squat tunes!",
 ];
 
-export default {
-  bootcampers,
-  compliments,
+export const emojis = {
+  "☀️": true,
+  "🌚": false,
 };
+
+ export default bootcampers;
