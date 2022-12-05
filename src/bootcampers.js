@@ -42,9 +42,12 @@ export const compliments = [
   "picks great squat tunes!",
 ];
 
-export const emojis = {
-  "☀️": true,
-  "🌚": false,
-};
+export const excercise = [
+  "and trains in the gym",
+  "and creates a storm when swimming",
+  "and loves mountain climbing",
+  "and is into paragliding",
+  "and goes skiing in the winter"
+]
 
  export default bootcampers;
